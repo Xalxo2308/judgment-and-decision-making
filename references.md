@@ -37,3 +37,23 @@ Where illustrative, hypothetical or scenario-based values are used, they will be
 ---
 
 *This reference register is being developed as part of the reconstruction and refinement of the original academic case study.*
+
+## Australian National Minimum Wage — Visualisation 3
+
+**Source:** Fair Work Commission — National Minimum Wage Orders and Annual Wage Reviews.
+
+- [National Minimum Wage Orders — Historical orders](https://www.fwc.gov.au/work-conditions/minimum-wages-and-conditions/national-minimum-wage/national-minimum-wage-orders)
+- [Annual Wage Review 2018–19](https://www.fwc.gov.au/hearings-decisions/major-cases/annual-wage-reviews/annual-wage-review-2018-19)
+- [National Minimum Wage Order 2019](https://www.fwc.gov.au/hearings-decisions/major-cases/annual-wage-reviews/annual-wage-review-2018-19/national-minimum-wage)
+
+**Data used in the chart (AUD per hour):**
+
+| Year | Hourly rate (AUD) |
+|---|---:|
+| 2018 | 18.93 |
+| 2019 | 19.49 |
+| 2020 | 19.84 |
+| 2021 | 20.33 |
+| 2022 | 21.38 |
+
+**Scope note:** These figures represent the national minimum wage baseline for the respective periods, not the wages of international students specifically. Award wages, classifications and individual employment conditions may differ.
