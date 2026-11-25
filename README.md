@@ -62,6 +62,12 @@ The interventions are considered in terms of their potential contribution to awa
 
 ## Visual Analysis
 
+## Visualisation 1 — Reported Wage-Theft Cases (Illustrative)
+
+![Illustrative trend in wage-theft reports](visuals/reported-cases-trend.png)
+
+> **Data disclaimer:** Illustrative values only. These figures have not been verified against an official dataset and should not be interpreted as actual reported case counts.
+
 The original assignment included visual representations of the following themes:
 
 | Visual | Analytical focus |
