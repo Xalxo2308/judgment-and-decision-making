@@ -66,6 +66,12 @@ The interventions are considered in terms of their potential contribution to awa
 
 ![Illustrative trend in wage-theft reports](visuals/reported-cases-trend.png)
 
+## Visualisation 2 — Employment Sector Distribution (Illustrative)
+
+![Illustrative employment sector distribution](visuals/employment-sector-distribution.png)
+
+> **Data disclaimer:** Illustrative percentages only. These figures have not been verified against an official dataset and should not be interpreted as actual employment-sector statistics.
+
 > **Data disclaimer:** Illustrative values only. These figures have not been verified against an official dataset and should not be interpreted as actual reported case counts.
 
 The original assignment included visual representations of the following themes:
