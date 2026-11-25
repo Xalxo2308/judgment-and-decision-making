@@ -36,8 +36,6 @@ Where illustrative, hypothetical or scenario-based values are used, they will be
 
 ---
 
-*This reference register is being developed as part of the reconstruction and refinement of the original academic case study.*
-
 ## Australian National Minimum Wage — Visualisation 3
 
 **Source:** Fair Work Commission — National Minimum Wage Orders and Annual Wage Reviews.
@@ -57,3 +55,5 @@ Where illustrative, hypothetical or scenario-based values are used, they will be
 | 2022 | 21.38 |
 
 **Scope note:** These figures represent the national minimum wage baseline for the respective periods, not the wages of international students specifically. Award wages, classifications and individual employment conditions may differ.
+
+*This reference register is being developed as part of the reconstruction and refinement of the original academic case study.*
