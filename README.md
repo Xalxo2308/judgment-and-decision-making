@@ -60,6 +60,23 @@ Potential interventions explored include:
 
 The interventions are considered in terms of their potential contribution to awareness, prevention, accountability and protection.
 
+## Evidence-Based Insight — Data Availability and Enforcement
+
+Research by Chen et al. (2024) highlights that workplace-relations law enforcement can be constrained by the availability, accessibility and quality of relevant data. The authors examine the Australian workplace-relations data ecosystem and identify shortcomings in the availability of data needed to support compliance and enforcement.
+
+This finding is relevant to wage theft affecting international students because effective detection and enforcement depend not only on workers reporting violations, but also on the ability of regulatory bodies to access, analyse and use reliable information.
+
+**Implications for decision-making:**
+
+- **Information quality:** Decisions should rely on reliable, accessible and sufficiently detailed data.
+- **Detection capability:** Better data collection and integration may help regulators identify patterns of noncompliance.
+- **Institutional coordination:** Data-sharing arrangements may improve regulatory effectiveness.
+- **Decision limitations:** When reliable data is unavailable, decision-makers must acknowledge uncertainty rather than treat illustrative statistics as empirical evidence.
+
+**Source:** Chen et al. (2024), *Open data, workplace relations law compliance, and digital regulation*. See `references.md`.
+
+This insight supports the project's emphasis on evidence quality, limitations and informed decision-making when evaluating potential responses to wage theft.
+
 ## Visual Analysis
 
 ## Visualisation 1 — Reported Wage-Theft Cases (Illustrative)
