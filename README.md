@@ -92,6 +92,18 @@ The original assignment included visual representations of the following themes:
 
 > Data verification note: Figures presented in the original assignment visuals will be reviewed before being used as verified statistical evidence. Where data is illustrative or hypothetical, it will be explicitly labelled as such.
 
+## Limitations of the Visual Analysis
+
+The visualisations included in this project serve different analytical purposes and have different data limitations.
+
+- **Visualisation 1:** Uses illustrative values to demonstrate a potential time-series analysis of reported wage-theft cases. It does not represent verified case statistics.
+- **Visualisation 2:** Uses illustrative percentages to demonstrate employment-sector distribution. It does not represent an empirically verified sector breakdown.
+- **Visualisation 3:** Presents historical Australian national minimum wage baseline rates from 2018–2022. It provides wage-policy context but does not measure wage theft, underpayment, or international students' actual earnings.
+
+Consequently, these visualisations should not be interpreted as empirical evidence of wage-theft prevalence, trends, sector-specific incidence, or causation.
+
+A future version of this analysis could incorporate verified government datasets, survey findings, enforcement statistics, and documented worker experiences to support more robust quantitative analysis.
+
 ## Decision Analysis Approach
 
 The case study will be developed using a structured analytical approach:
