@@ -56,4 +56,15 @@ Where illustrative, hypothetical or scenario-based values are used, they will be
 
 **Scope note:** These figures represent the national minimum wage baseline for the respective periods, not the wages of international students specifically. Award wages, classifications and individual employment conditions may differ.
 
+## Academic Research — Workplace Relations Data and Enforcement
+
+Chen, C., Howe, J., Kariotis, T., & Jackson, S. (2024). *Open data, workplace relations law compliance, and digital regulation*. Data & Policy, 6, e26.
+
+- **DOI:** https://doi.org/10.1017/dap.2024.18
+- **Publisher:** Cambridge University Press
+- **Access:** Open access
+- **Relevance:** Examines data availability, access, quality and the use of data science to support workplace-law compliance and enforcement in Australia.
+
+This source provides academic context for the project's discussion of data limitations, evidence-based decision-making and potential approaches to workplace-law enforcement.
+
 *This reference register is being developed as part of the reconstruction and refinement of the original academic case study.*
