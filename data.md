@@ -63,3 +63,32 @@ The chart was intended to compare possible mitigation approaches.
 ## 7. Future Improvements
 
 The case study may be strengthened through the incorporation of verified data from reputable sources, including Australian government agencies, academic research and relevant worker advocacy organisations.
+
+## Visualisation Data Summary
+
+### Visualisation 1 — Reported Wage-Theft Cases Trend
+- **Type:** Line chart
+- **Data status:** Illustrative, not verified against an official dataset.
+- **Purpose:** Demonstrates how a time-series trend could be used to examine reported wage-theft cases.
+- **Limitation:** Values must not be interpreted as actual reported case counts.
+
+### Visualisation 2 — Employment Sector Distribution
+- **Type:** Pie chart
+- **Data status:** Illustrative, not verified against an official dataset.
+- **Purpose:** Demonstrates how employment sectors could be represented in a distribution chart.
+- **Limitation:** Percentages must not be interpreted as actual employment-sector statistics.
+
+### Visualisation 3 — Australian National Minimum Wage Trend (2018–2022)
+- **Type:** Line chart
+- **Data status:** Historical national minimum wage figures used as a baseline.
+- **Source:** Fair Work Commission historical national minimum wage orders and Annual Wage Review material, documented in `references.md`.
+- **Purpose:** Provides historical wage-policy context relevant to the discussion of employment conditions.
+- **Limitation:** The national minimum wage is not necessarily the applicable rate for every worker. Award rates, classifications and employment conditions may differ. The chart does not represent international students' actual wages.
+
+### Overall Data Limitations
+- Visualisations 1 and 2 use illustrative data rather than verified empirical datasets.
+- Visualisation 3 represents historical minimum wage baseline figures, not wage-theft prevalence or student wage outcomes.
+- The visualisations serve different analytical purposes and should not be directly interpreted as evidence of a causal relationship.
+- Further research should use verified datasets from authoritative sources to establish empirical findings.
+- Any conclusions drawn from illustrative visualisations should be treated as conceptual rather than statistically validated.
+  
