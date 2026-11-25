@@ -70,6 +70,12 @@ The interventions are considered in terms of their potential contribution to awa
 
 ![Illustrative employment sector distribution](visuals/employment-sector-distribution.png)
 
+## Visualisation 3 — Australian National Minimum Wage Trend (2018–2022)
+
+![Australian national minimum wage trend](visuals/national-minimum-wage-trend.png)
+
+> **Context:** This chart presents the Australian national minimum wage hourly rate over the selected period. National minimum wage rates are a baseline and may not apply to every worker, as award rates, classifications and other employment conditions may affect applicable pay.
+
 > **Data disclaimer:** Illustrative percentages only. These figures have not been verified against an official dataset and should not be interpreted as actual employment-sector statistics.
 
 > **Data disclaimer:** Illustrative values only. These figures have not been verified against an official dataset and should not be interpreted as actual reported case counts.
