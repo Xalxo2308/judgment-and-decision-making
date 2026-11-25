@@ -151,5 +151,23 @@ The case study does not constitute legal advice.
 **Project focus:** Decision analysis of wage-theft vulnerabilities affecting international students in Australia
 
 ---
+## Decision-Analysis Process
+
+```mermaid
+flowchart TD
+    A[Identify wage-theft problem] --> B[Define decision objectives]
+    B --> C[Identify stakeholders]
+    C --> D[Analyse constraints and risks]
+    D --> E[Identify cognitive biases]
+    E --> F[Develop decision alternatives]
+    F --> G[Evaluate alternatives]
+    G --> H[Select preferred approach]
+    H --> I[Develop recommendations]
+    I --> J[Review limitations and evidence]
+
+    class A,B,C,D,E,F,G,H,I,J default
+```
+
+This diagram illustrates the analytical process used to structure the case study. It represents the project's decision-analysis workflow, not a claim that every stage was empirically validated.
 
 *This portfolio entry is being reconstructed and refined from the original academic work for professional portfolio presentation.*
